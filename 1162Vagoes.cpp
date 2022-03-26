@@ -1,4 +1,4 @@
-// Problema: hhttps://www.beecrowd.com.br/judge/pt/problems/view/1162
+// Problema: https://www.beecrowd.com.br/judge/pt/problems/view/1162
 // Linguagem: C++17
 
 #include <bits/stdc++.h>
