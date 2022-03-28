@@ -2,6 +2,7 @@
 
 **Número da Lista**: 4<br>
 **Conteúdo da Disciplina**: Dividir e Conquistar<br>
+**Apresentação: <a href="https://youtu.be/UqjDmvJ0JVc">assistir</a>
 
 ## Alunos
 |Matrícula | Aluno |
