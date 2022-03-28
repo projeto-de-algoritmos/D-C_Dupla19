@@ -10,21 +10,29 @@
 | 18/0018574  |  Hérya Rodrigues Alcantara |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Resolução de questões dos sites *beecrowd* e *leetcode* utilizando uma abordagem de dividir e conquistar.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+### Problema 1088 - Bolhas e Baldes
+![Submissão Bolhas e Baldes](images/1088.png)
+
+### Problema 1162 - Organizador de vagões
+![Submissão Organizador de vagões](images/1162.png)
+
+### Problema 1295 - Problema dos Pares Mais Próximos
+![Submissão Problema dos Pares Mais Próximos](images/1295.png)
+
+### Problema 53 - Maximum Subarray
+![Submissão Maximum Subarray](images/53.png)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C++<br>
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+* Acessar o link do problema (indicado no início de cada arquivo de solução);
+* Copiar e colar o código da solução na área de submissão;
+* Selecionar a linguagem C++17(beecrowd) ou C++(leetcode);
+* Enviar submissão.
 
 
 
